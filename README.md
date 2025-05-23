@@ -4,6 +4,8 @@ A face manipulation and fusion project utilizing StyleGAN2 architecture for gene
 
 As a special use example, child face prediction is implemented with Gradio UI.
 
+![Screenshot](./screenshot.png)
+
 ## Description
 
 This project experiments face fusion techniques using StyleGAN2, allowing users to:
