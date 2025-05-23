@@ -20,5 +20,5 @@ This project experiments face fusion techniques using StyleGAN2, allowing users 
 - Download the repo to your Google Drive
 - Upload the `face_fusion.ipynb` to Google Colab
 - Turn on GPU usage in Colab
-- In the first cell, edit the `project_dir` variable to the path of the project folder
+- In the first and second cells, edit the `project_dir` variables to be the actual path of the project folder
 - Run the cells in order
