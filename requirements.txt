@@ -1,0 +1,17 @@
+numpy==1.23.5
+opencv-python
+mediapipe
+dlib
+face-alignment
+lpips
+ninja
+click
+requests
+tqdm
+pyspng
+imageio-ffmpeg
+gdown
+gradio>=4.0.0
+Pillow>=10.0.0
+torch>=2.0.0
+torchvision>=0.15.0
