@@ -14,8 +14,8 @@ This project experiments face fusion techniques using StyleGAN2, allowing users 
 
 ## Models
 
-- [StyleGAN2 ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) pre-trained models
-- [e4e encoder](https://github.com/omertov/encoder4editing) for latent space manipulation
+- [StyleGAN2 ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) [pre-trained models](https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/)
+- [e4e encoder](https://github.com/omertov/encoder4editing) for latent space manipulation. [e4e pretrained models](https://github.com/omertov/encoder4editing?tab=readme-ov-file#pretrained-models)
 
 ## How to run it
 
